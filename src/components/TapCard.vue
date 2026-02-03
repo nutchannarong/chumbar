@@ -169,7 +169,7 @@ export default {
   left: 0;
   right: 0;
   height: 3px;
-  background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1);
+  background: linear-gradient(90deg, #ba232a, #8c1a1f, #ba232a);
   border-radius: 12px 12px 0 0;
 }
 
@@ -190,14 +190,14 @@ export default {
   position: absolute;
   top: 20px;
   left: -18px;
-  background: linear-gradient(135deg, #ff8e53 0%, #ed4e16 50%, #ed4e16 100%);
+  background: linear-gradient(135deg, #d42f36 0%, #ba232a 50%, #ba232a 100%);
   color: #ffffff;
   font-size: 1.5rem;
   font-weight: 800;
   padding: 30px 60px 5px 35px;
   border-radius: 0;
   box-shadow:
-    0 4px 15px rgba(255, 107, 107, 0.5),
+    0 4px 15px rgba(186, 35, 42, 0.5),
     inset 0 1px 0 rgba(255, 255, 255, 0.3),
     inset 0 -1px 0 rgba(0, 0, 0, 0.2);
   z-index: 10;
@@ -227,7 +227,7 @@ export default {
   right: -8px;
   width: 15px;
   height: 15px;
-  background: linear-gradient(45deg, #c44a1a, #a03617);
+  background: linear-gradient(45deg, #8c1a1f, #6b1418);
   transform: rotate(45deg);
   box-shadow:
     2px 2px 6px rgba(0, 0, 0, 0.4),
@@ -384,7 +384,7 @@ export default {
 .price-value {
   font-size: 1.6rem;
   font-weight: 800;
-  color: #e25209;
+  color: #ba232a;
   margin-bottom: -5px;
 }
 
