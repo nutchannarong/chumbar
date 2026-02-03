@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL = 'https://script.google.com/macros/s/AKfycbyVVkv1SFziK0f6NuHKr8jfJqUAg8izNGGfzV5uzJJJmZQm6YntWtgkpFRx-_HMpdQ/exec'
+const API_URL = 'https://script.google.com/macros/s/AKfycbySK5ym9GSnY5dLAcuCgsbVFVK4nCyAuEYdDD5d_hC5HygcAe3U-F1CsChQWTGPt70/exec'
 export const tapService = {
   async getTaplist() {
     try {
